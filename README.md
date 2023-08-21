@@ -7,7 +7,7 @@ El objetivo principal del análisis es entregar a la empresa información detall
 
 Adjunto link de análisis realizado en Excel.👇
 
-https://1drv.ms/x/s!AsvXqmrxlbiMgTDXUlSHSAxziRHx?e=2VgY8O
+
 
 
 
