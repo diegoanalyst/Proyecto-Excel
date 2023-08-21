@@ -5,7 +5,7 @@ La empresa "Servicios empresariales "con más de 20 años de trayectoria busca s
 
 El objetivo principal del análisis es entregar a la empresa información detallada sobre el rendimiento de los distintos servicios para encontrar problemas y corregirlos. También gracias a los datos proporcionados podemos saber cuáles fueron los meses que más se vendieron, el método de pago más elegido y distintas métricas que nos permiten armar estrategias como por ejemplo, saber cuál es la época del año para realizar más publicidad y promociones, o saber en qué medio de pago ofrecer descuentos para que de esa manera se puede atraer más clientes y generar más ingresos.
 
-Ajunto link de análisis realizado en Excel.👇
+Adjunto link de análisis realizado en Excel.👇
 
 https://1drv.ms/x/s!AsvXqmrxlbiMgTDXUlSHSAxziRHx?e=2VgY8O
 
